@@ -9,8 +9,7 @@ This page is to inform visitors regarding our policies with the collection, use 
 
 
 
-# Information Collection and Use:
-
+## Information Collection and Use:
 
 For a better experience, while using Alien Eye’s Balance BAll game, we may require you to provide us the certain personally identifiable information, including but not limited to:
 
