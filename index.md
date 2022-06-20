@@ -3,41 +3,24 @@ layout: default
 ---
 
 <p align="center">
-  <img width="256" height="256" src="TEXTURES/WEB_ICON_AE.png">
+  # Privacy Policy
 </p>
 
+## This page is to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use Balance Ball game developed by Alien Eye.
 
-# About Alien Eye:
-
-Alien Eye is an indie game development studio based in Egypt.
-Founded in 2022.
-
-
-
-
-# Games:
 
 <p align="center">
-  <img width="256" height="256" src="TEXTURES/WEB_ICON_BB.png">
+  # Information Collection and Use
 </p>
 
-## 1.Balance Ball
+## For a better experience, while using Alien Eye’s Balance BAll game, we may require you to provide us the certain personally identifiable information, including but not limited to:
 
-Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
+## 1.Android advertising identifier.
 
-[Privacy Policy](https://m7mods3eed.github.io/Balance-Ball.....Privacy-Policy)
-
-
-### Screenshots:
 
 <p align="center">
-  <img width="480" height="270" src="TEXTURES/BB_SHOT.PNG">
+  #The information that we require will be retained on your device and is not collected by us in any way.
 </p>
-
-
-### Download: 
-
-<a href="https://www.google.com"><img width="256" height="100" href="https://www.googl.com" src="TEXTURES/PLAY_BADGE.png"></a>
 
 
 
