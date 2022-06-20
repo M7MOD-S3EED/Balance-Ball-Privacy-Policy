@@ -13,13 +13,9 @@ This page is to inform visitors regarding our policies with the collection, use 
 
 
 For a better experience, while using Alien Eye’s Balance BAll game, we may require you to provide us the certain personally identifiable information, including but not limited to:
+1.Android advertising identifier.
 
-## 1.Android advertising identifier.
-
-
-The information that we require will be retained on your device and is not collected by us in any way.
-
-
+## The information that we require will be retained on your device and is not collected by us in any way.
 
 
 # Contact us:
