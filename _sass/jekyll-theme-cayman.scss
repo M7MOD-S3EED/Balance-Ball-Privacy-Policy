@@ -130,11 +130,11 @@ a {
 }
 
 .project-name {
-  margin-top: 0.1rem;
+  margin-top: 0rem;
   margin-bottom: 0rem;
 
   @include large {
-    margin-top: 1rem;
+    margin-top: 0rem;
     margin-bottom: 0rem;
     font-size: 5rem;
   }
