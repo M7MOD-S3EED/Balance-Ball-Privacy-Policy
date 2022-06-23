@@ -11,7 +11,7 @@ layout: default
 
 # Information Collection and Use:
 
-## For a better experience, while using Alien Eye’s Balance BAll game, we may require you to provide us the certain personally identifiable information, including but not limited to:
+## For a better experience, while using Alien Eye’s Balance Ball game, we may require you to provide us the certain personally identifiable information, including but not limited to:
 
 ## 1.Android advertising identifier.
 
