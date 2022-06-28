@@ -14,6 +14,7 @@ layout: default
 ## For a better experience, while using Alien Eye’s Balance Ball game, we may require you to provide us the certain personally identifiable information, including but not limited to:
 
 ## 1.Android advertising identifier.
+## 2.user's birthday.
 
 ## The information that we require will be retained on your device and is not collected by us in any way.
 
