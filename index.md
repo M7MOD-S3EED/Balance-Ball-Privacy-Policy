@@ -4,20 +4,13 @@ layout: default
 
 # Privacy Policy:
 
-### This page is to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use Balance Ball game developed by Alien Eye.
+### This page is to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use the RunDroid game developed by Alien Eye.
 
 # 
 
 # Information collected and used by Alien Eye:
 
-### For a better experience, while using Alien Eye’s Balance Ball game, we may require you to provide us the certain personally identifiable information, including but not limited to:
-
-### 
-
-## 1.User's birthday:
-### When you install Balance Ball, you may be asked to provide your birthday, (More on how we use this information is below in the “Children's Privacy” section).
-
-## The information that we require will be retained on your device and is not collected by us in any way.
+### We (Alien Eye) do not require users to provide Personal information.
 
 # 
 
@@ -27,10 +20,8 @@ layout: default
 
 ### 
 
-## 1. Google AdMob:
-### AdMob is a mobile advertising platform.
-
-### In order to show you ads that you might find interesting and/or relevant ("Targeted Ads"), Ad mob collects and uses your Advertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, read more on AdMob policy from this **[link](https://policies.google.com/privacy?hl=en)**.
+## 1. Unity Ads:
+### Unity Ads is a third-party service provided by Unity Technologies. Unity Ads is an advertising service that provides tailored ads based on personal data. Unity may collect some or all of the following information about your device: IP address, device identifiers, location information, and information about the network, browser, and operating system. This information is used to provide and improve the Unity Ads service and to enable targeted advertisements to be presented within our game. Please note that Unity Ads operates under its own privacy policy, and we encourage you to review it. By using our game, you consent to the data practices described in this policy and Unity’s privacy policy **[link](https://unity3d.com/legal/privacy-policy))**.
 
 ###
 
@@ -38,7 +29,7 @@ layout: default
 ### Unity Analytics, part of the Unity Gaming Services platform, provides an end-to-end data and analysis solution.
 
 ### Unity Analytics collects and uses certain personally identifiable information, including but not limited to:
-### approximate location, personal identifiers,  crash logs, app diagnostics, other app performance data.
+### approximate location, personal identifiers,  crash logs, app diagnostics, and other app performance data.
 
 ### Read more on Unity Analytics policy from this **[link](https://unity3d.com/legal/privacy-policy)**.
 
@@ -59,14 +50,6 @@ layout: default
 
 #
 
-# Children's Privacy:
-
-### We understand the importance of protecting the privacy and safety of children using our game, as outlined by the Children’s Online Privacy Protection Act of 1998 (COPPA). Accordingly, we require fresh users to provide their birthdays so that we can calculate their approximate age, and determine if they are under 14 years or not, then we use this information to configure all relevant third-party integrations appropriately such that no personal information will be collected from users of that service. For additional information, please refer to the privacy policies of our third-party operators to understand what they are doing to further protect your child’s privacy.
-
-# How to opt-out of targeted advertising:
-
-### If you would like to opt-out of interest-based advertising, you may do so in your mobile device’s settings. On Android, this can typically be found under **Settings -> Google -> Ads -> Opt out of Ads Personalization**, although the exact location of this setting may differ depending on your device make and Android version.
-
 # Changes To This Privacy Policy:
 
 ### We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
@@ -79,3 +62,4 @@ layout: default
 # Contact us:
 
 ## Contact Email: Contact.AlienEye@Gmail.com
+
