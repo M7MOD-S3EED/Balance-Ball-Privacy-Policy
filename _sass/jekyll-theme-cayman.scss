@@ -63,16 +63,20 @@ a {
 
 .btn {
   display: inline-block;
-  margin-bottom: 1rem;
+  
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
+  
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
+  
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  
   font-size: 2rem;
   
+  margin-right: -35rem;margin-top: 4rem;margin-left: -35rem;margin-bottom: 1rem;
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
@@ -91,10 +95,15 @@ a {
   }
   
   @include small {
-    //display: block;
-    //width: 100%;
     padding: 0.1rem 1rem;
     font-size: 1rem;
+
+    +.btn{
+      margin-right: 50%;
+      margin-top: 100%;
+      margin-left: 50%;
+      margin-bottom: 100%;
+    }
   }
 }
 
