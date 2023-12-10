@@ -76,7 +76,11 @@ a {
   
   font-size: 2rem;
   
-  margin-right: -35rem;margin-top: 4rem;margin-left: -35rem;margin-bottom: 1rem;
+  margin-right: -35rem;
+  margin-top: 4rem;
+  margin-left: -35rem;
+  margin-bottom: 1rem;
+  
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
@@ -87,6 +91,11 @@ a {
   @include large {
     font-size: 2rem;
     padding: 0.25rem 2.5rem;
+
+    margin-right: -35rem;
+    margin-top: 4rem;
+    margin-left: -35rem;
+    margin-bottom: 1rem;
   }
 
   @include medium {
