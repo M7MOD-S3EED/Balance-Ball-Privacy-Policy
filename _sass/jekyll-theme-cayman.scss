@@ -85,7 +85,6 @@ a {
 
   + .btn {
     margin-left: 5rem;
-    margin-right: 5rem;
   }
 
   @include large {
@@ -98,7 +97,7 @@ a {
     padding: 0.2rem 2rem;
 
     margin-left: 3rem;
-    margin-right: 3rem;
+    //margin-right: 3rem;
   }
 
   @include small {
@@ -108,7 +107,7 @@ a {
     padding: 0.2rem 1rem;
 
     margin-left: 1rem;
-    margin-right: 1rem;
+   // margin-right: 1rem;
     
 
   }
