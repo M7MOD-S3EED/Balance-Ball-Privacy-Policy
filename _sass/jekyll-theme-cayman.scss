@@ -56,8 +56,23 @@ a {
   color: $body-link-color;
   text-decoration: none;
 
+  margin-right: -35rem;
+  margin-top: 4rem;
+  margin-left: -35rem;
+  margin-bottom: 1rem;
+
   &:hover {
     text-decoration: underline;
+
+    @include small {
+      +.a
+      {
+        margin-right: 50%;
+        margin-top: 100%;
+        margin-left: 50%;
+        margin-bottom: 100%;
+      }
+  }
   }
 }
 
@@ -76,11 +91,6 @@ a {
   
   font-size: 2rem;
   
-  margin-right: -35rem;
-  margin-top: 4rem;
-  margin-left: -35rem;
-  margin-bottom: 1rem;
-  
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
@@ -91,11 +101,6 @@ a {
   @include large {
     font-size: 2rem;
     padding: 0.25rem 2.5rem;
-
-    margin-right: -35rem;
-    margin-top: 4rem;
-    margin-left: -35rem;
-    margin-bottom: 1rem;
   }
 
   @include medium {
@@ -106,12 +111,6 @@ a {
   @include small {
     padding: 0.1rem 1rem;
     font-size: 1rem;
-
-    +.btn{
-      margin-right: 50%;
-      margin-top: 100%;
-      margin-left: 50%;
-      margin-bottom: 100%;
     }
   }
 }
