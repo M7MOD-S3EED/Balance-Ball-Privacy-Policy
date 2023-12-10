@@ -90,13 +90,15 @@ a {
   @include large {
     font-size: 2rem;
     padding: 0.25rem 2.5rem;
+
+    margin-left: 64rem;
   }
 
   @include medium {
     font-size: 1.5rem;
     padding: 0.2rem 2rem;
 
-    margin-left: 20rem;
+    margin-left: 32rem;
     //margin-right: 3rem;
   }
 
@@ -106,7 +108,7 @@ a {
     //width: 100%;
     padding: 0.2rem 1rem;
 
-    margin-left: 10rem;
+    margin-left: 16rem;
    // margin-right: 1rem;
     
 
