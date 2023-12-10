@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Privacy Policy:
+# Privacy Policy for Balance Ball:
 
 ### This page is to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use Balance Ball game developed by Alien Eye.
 
