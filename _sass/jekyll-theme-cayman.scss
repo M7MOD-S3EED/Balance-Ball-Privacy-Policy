@@ -78,7 +78,10 @@ a {
   
   font-size: 2rem;
   margin-right: 40rem;
-    margin-left: 40rem;
+  margin-left: 40rem;
+  margin-top: 4rem;
+  margin-down: 1rem;
+  
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
@@ -102,6 +105,8 @@ a {
 
     margin-right: 10rem;
     margin-left: 10rem;
+    margin-top: 4rem;
+    margin-down: 1rem;
     
     }
   }
