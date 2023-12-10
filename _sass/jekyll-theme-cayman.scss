@@ -77,7 +77,8 @@ a {
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
   
   font-size: 2rem;
-  
+  margin-right: 40rem;
+    margin-left: 40rem;
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
@@ -99,10 +100,8 @@ a {
     padding: 0.1rem 1rem;
     font-size: 1rem;
 
-    +.btn{
-      margin-right: 10rem;
-      margin-left: 10rem;
-    }
+    margin-right: 10rem;
+    margin-left: 10rem;
     
     }
   }
