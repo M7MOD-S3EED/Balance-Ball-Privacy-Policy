@@ -56,25 +56,12 @@ a {
   color: $body-link-color;
   text-decoration: none;
 
-  margin-right: -35rem;
-  margin-top: 4rem;
-  margin-left: -35rem;
-  margin-bottom: 1rem;
-
+  
   &:hover {
     text-decoration: underline;
+  }
+  }
 
-    @include small {
-      +.a
-      {
-        margin-right: 50%;
-        margin-top: 100%;
-        margin-left: 50%;
-        margin-bottom: 100%;
-      }
-  }
-  }
-}
 
 .btn {
   display: inline-block;
@@ -111,6 +98,12 @@ a {
   @include small {
     padding: 0.1rem 1rem;
     font-size: 1rem;
+
+    +.btn{
+      margin-right: 50%;
+      margin-left: 50%;
+    }
+    
     }
   }
 }
