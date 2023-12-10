@@ -75,6 +75,7 @@ a {
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
+  font-size: 2rem;
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
@@ -83,24 +84,32 @@ a {
   }
 
   + .btn {
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 30rem;
+    margin-right: 30rem;
   }
 
   @include large {
-    padding: 0.75rem 1rem;
+    font-size: 2rem;
+    padding: 0.25rem 2.5rem;
   }
 
   @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
+    font-size: 1.5rem;
+    padding: 0.2rem 2rem;
+
+    margin-left: 20rem;
+    margin-right: 20rem;
   }
 
   @include small {
+    font-size: 1rem;
     display: block;
     width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem;
+    padding: 0.2rem 1rem;
+
+    margin-left: 10rem;
+    margin-right: 10rem;
+    
 
   }
 }
