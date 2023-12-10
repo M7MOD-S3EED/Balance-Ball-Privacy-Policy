@@ -1,7 +1,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&family=Signika:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
